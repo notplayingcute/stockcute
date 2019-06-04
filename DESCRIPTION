@@ -1,7 +1,7 @@
 Package: stockcute
 Type: Package
 Title: stockcute (Title Case)
-Version: 0.1.0
+Version: 0.2.0
 Author: notplayingcute
 Maintainer: siyang <1613104@nankai.edu.cn>
 Description: get stock data (maybe more than one line)
